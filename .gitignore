@@ -1,0 +1,8 @@
+data/output/**
+checkpoints/**
+event-logs/**
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
