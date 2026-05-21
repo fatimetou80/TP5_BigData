@@ -104,7 +104,10 @@ Increase Spark driver/executor memory in `docker-compose.yml` before using full 
 
 ## Group Members
 
-_Add your names here before submission._
+24034 Fatimetou Cheikh Brahim Cheikh Abdallahi
+24062 Raiaa Vall El kheir
+24063 Oumelkheir Ahmed Chemse
+24402 Aminetou Mohamed Ebebe
 
 ## License
 
